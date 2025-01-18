@@ -259,8 +259,9 @@ elif page == "SQL Insights":
         "19. Monthly revenue trend": "SELECT DATE_FORMAT(order_date, '%Y-%m') AS month, SUM(total_amount) AS monthly_revenue FROM orders GROUP BY month ORDER BY month;",
         "20. Average order value": "SELECT AVG(total_amount) FROM orders;",
         "21. Total orders today": "SELECT COUNT(*) FROM orders WHERE order_date = CURDATE();",
+        "22. Total orders this month": "SELECT COUNT(*) FROM orders WHERE MONTH(order_date) = MONTH(CURDATE());",
+        
     }
-
     selected_query = st.selectbox("Select Query", list(sql_queries.keys()))
 
     if st.button("Execute Query"):
