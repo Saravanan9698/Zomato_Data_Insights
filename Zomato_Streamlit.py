@@ -260,7 +260,9 @@ elif page == "SQL Insights":
         "20. Average order value": "SELECT AVG(total_amount) FROM orders;",
         "21. Total orders today": "SELECT COUNT(*) FROM orders WHERE order_date = CURDATE();",
         "22. Total orders this month": "SELECT COUNT(*) FROM orders WHERE MONTH(order_date) = MONTH(CURDATE());",
-        
+        "23. Customers with highest spending": "SELECT customer_id, SUM(total_amount) AS total_spent FROM orders GROUP BY customer_id ORDER BY total_spent DESC LIMIT 5;",
+        "24. Number of repeat customers": "SELECT COUNT(customer_id) FROM (SELECT customer_id FROM orders GROUP BY customer_id HAVING COUNT(*) > 1) AS repeat_customers;",
+        "25. Restaurants with the most orders this month": "SELECT restaurant_id, COUNT(*) AS order_count FROM orders WHERE MONTH(order_date) = MONTH(CURDATE()) GROUP BY restaurant_id ORDER BY order_count DESC LIMIT 5;",
     }
     selected_query = st.selectbox("Select Query", list(sql_queries.keys()))
 
