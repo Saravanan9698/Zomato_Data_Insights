@@ -1,101 +1,101 @@
 restaurant_id,name,cuisine_type,location,owner_name,average_delivery_time,contact_number,rating,total_orders,is_active
-1,Parker PLC,Japanese,Aliciaview,Jennifer Shannon,41,(738)984-0192x69648,2.7,86,False
-2,Mayo Ltd,Indian,South James,Mr. Michael Diaz,60,(708)650-1919x156,1.8,66,False
-3,"Jones, Schneider and Holloway",Mexican,Lake Crystal,Jody Hubbard,36,(386)783-9727,1.8,83,True
-4,Dean-Moore,Indian,West Melissa,James Lewis,41,511-868-1492x470,3.0,94,False
-5,Jones PLC,Italian,North Debraport,Rebecca Lopez,32,780-876-2340,1.6,78,False
-6,Cole-Larsen,Japanese,South Jaredfurt,Rick Lynch,47,(759)882-2281,4.3,63,False
-7,Barrera Ltd,Italian,Johnsonberg,Melissa Mayer,50,001-240-406-8550x20029,4.2,56,True
-8,Smith-Montes,Chinese,Elizabethton,Tyler Rodriguez DVM,23,882.300.2540,2.7,59,True
-9,"Harris, Reese and Townsend",Indian,Williestad,Tracie Gomez,58,(533)326-9155x419,1.4,94,True
-10,Mays PLC,Italian,Elliottberg,Ronnie Edwards,40,591.753.6872x2058,3.2,62,False
-11,Clark Group,Japanese,Lake Jessicaberg,Shannon Malone,47,666-488-3569,4.5,53,True
-12,"Gomez, Smith and Salazar",Italian,Mckinneyborough,Christopher Hester,33,001-334-264-5954x997,1.2,77,True
-13,"Tucker, Miller and Norman",Japanese,Port Richardport,Charles Crawford,43,(567)611-7668x71730,1.4,62,True
-14,Jones PLC,Japanese,East Daniel,Matthew White,29,(849)805-0269,2.4,98,False
-15,Walls PLC,Italian,Thompsonland,Jennifer Bautista,43,+1-924-864-9824x412,2.9,83,False
-16,"Nicholson, Franklin and Murray",Italian,South Richardstad,Karen Ray,24,+1-886-947-4606,1.7,69,False
-17,"Weaver, Brown and Myers",Indian,Lake Denniston,Donald Rivera,49,4693467693,4.9,89,True
-18,Bryant PLC,Japanese,Shawntown,Heather Allen,32,001-780-728-2845x77283,3.2,93,False
-19,"Burns, Wang and Reynolds",Italian,North Anne,Ashley Anderson,27,901.474.6723x3672,1.9,64,True
-20,Reyes-Copeland,Indian,West Jennifer,Olivia Duran,25,(459)766-3824x29067,2.5,53,False
-21,Chambers-Spence,Chinese,Pattersonshire,Stephen Booth,30,(419)887-3929x25383,2.3,79,False
-22,Lewis and Sons,Indian,North Katherine,Sherry Brown,43,9745030030,3.9,55,True
-23,Krause Ltd,Chinese,West Laurenside,Diana Owens,51,+1-807-641-3750x61981,1.8,94,False
-24,"Pratt, Johnson and Clark",Japanese,East Danielleview,Michael George,36,(691)587-4084x2177,2.5,94,False
-25,"Petersen, Suarez and Cain",Japanese,Lunamouth,Amber Hamilton,60,992.933.4395x984,2.1,65,True
-26,Rodriguez Ltd,Japanese,Cherylfort,Barbara Ortega,51,724-319-8372x3938,1.1,81,False
-27,"Johnson, Padilla and Anderson",Italian,Barnettland,Mary Ford,24,001-669-642-3066x96593,4.2,79,False
-28,Robinson LLC,Mexican,New Brian,John Miller,37,893-678-9060x50663,3.7,50,False
-29,Munoz-Nguyen,Italian,Andrewtown,Kimberly Thomas,46,570.232.0345,3.4,90,True
-30,Davis-Cline,Italian,Westchester,Bradley Robertson,42,6443425007,4.4,96,False
-31,Baxter and Sons,Japanese,Jamiefort,Justin Davis,60,001-892-675-2836,2.6,97,True
-32,Holland Group,Italian,North Carolstad,Juan Wilson,43,7256842463,3.5,78,False
-33,"Garcia, Moran and Wilson",Mexican,West Joe,Edward Jones,30,001-949-202-3158,2.8,86,False
-34,King Group,Japanese,Jenniferview,Ryan Vance,55,626-469-8396,3.8,92,False
-35,Good LLC,Chinese,Lake Marcusberg,Molly Torres,38,863.552.6911,2.3,61,False
-36,Rivera LLC,Indian,North Andrea,Joseph Hart,38,3368202893,4.3,82,False
-37,"Gonzales, Parks and Woods",Chinese,Fullertown,Michael Adams,50,969-955-3507x399,2.0,91,True
-38,Kline Inc,Indian,Port Anneville,Sheila Heath,24,359.721.6324x2024,1.1,62,True
-39,Anderson and Sons,Italian,Lake Garrett,Nicole Silva,47,001-640-433-4332x7310,3.7,77,False
-40,"Kelly, Casey and Smith",Chinese,Sullivanville,Robert Grant,30,543.400.0511x1370,4.3,93,True
-41,Hill-Hill,Japanese,South Lauren,Laura Jackson,41,001-216-451-9248,2.2,82,False
-42,Lee and Sons,Japanese,Mortonton,Melissa Hunter,20,563-927-1609,1.3,83,False
-43,Harper-Diaz,Indian,Mariabury,James Benitez,39,8807400805,1.3,84,True
-44,Christian-Torres,Mexican,New Angela,Michael Price,28,262.465.3313x957,2.6,71,False
-45,Berry Ltd,Chinese,North Jill,Tammy Branch,42,942.463.3912,2.9,83,False
-46,Hatfield-Morris,Mexican,Gutierreztown,Alexandria Mahoney,44,544.426.8931,2.4,72,True
-47,"Harris, Stewart and Clark",Chinese,Lewisburgh,Tina Skinner,45,001-248-368-7935,1.3,81,True
-48,"Mcmillan, Wright and Brown",Chinese,Janefort,Paula Buck,29,980-386-9669x31990,4.9,72,False
-49,Green LLC,Mexican,New Jessicaland,Jonathan Simpson,24,001-931-458-4590,4.4,87,True
-50,Williams LLC,Indian,East Janetborough,Jake Johnson,44,(957)869-3876,4.4,86,True
-51,Rose-Martinez,Italian,Marquezfurt,Lauren Cooper,42,881.211.6455x91838,1.6,66,False
-52,Baird PLC,Japanese,West Alyssaborough,Paul Rodriguez,48,(658)667-3113,4.8,61,False
-53,Benson Inc,Mexican,Johnsonport,Karen Garcia,53,335-539-3180x6435,2.7,82,True
-54,Adams-Guerrero,Italian,Mcleanmouth,Olivia Thompson,57,(347)886-2896x927,4.5,51,False
-55,White Ltd,Indian,New Autumn,Stephanie Hanna,44,552-923-2767,4.9,60,False
-56,"Logan, Robinson and Torres",Italian,Watsonhaven,Melissa Casey,40,001-722-271-3372,2.1,57,True
-57,Ruiz LLC,Indian,Jerryton,Jennifer Lopez,30,001-475-575-4019x814,4.3,72,True
-58,"Delgado, Horn and Moran",Italian,Andrewshire,Diane Fry,30,(963)665-3276,4.9,64,False
-59,"Cook, Michael and Curry",Indian,Banksside,Deborah Moore,29,921-426-9326x149,1.5,58,True
-60,Clark Group,Mexican,Ballshire,Courtney Garcia,35,(477)593-1997,1.8,100,True
-61,Dixon-Smith,Italian,Courtneyport,Mr. Anthony Hernandez DDS,24,+1-486-896-1598x9236,1.2,100,True
-62,"Hernandez, Thompson and Brown",Indian,Marshport,Steven Scott,58,001-333-559-7434x7431,5.0,54,False
-63,Johnson-Martin,Italian,East Denisemouth,Tabitha Newton,31,229-289-5127x136,3.2,80,True
-64,"Hawkins, Lester and Wise",Mexican,Tonyatown,Brandon Leon,23,223-969-7165x3749,5.0,90,False
-65,Williams-Fry,Italian,Matthewland,Dan Wilson,43,2593592174,4.0,77,False
-66,Lawson Ltd,Italian,Ramseyton,Michele Chambers,28,+1-273-607-0028x6525,3.3,59,True
-67,"Allen, Barber and Wright",Indian,West Kristinashire,Laurie Freeman,31,561-832-7713x902,2.4,74,False
-68,Ellis-Brown,Chinese,Mcgrathtown,James Navarro,50,(820)841-8496x7436,4.7,52,True
-69,"Washington, Ramos and Jackson",Japanese,Joshuamouth,Joseph Wong,38,001-343-694-9459x257,3.9,51,True
-70,Lopez-Love,Italian,Danielleside,Donna Reyes,20,(327)516-8734x20244,4.9,55,True
-71,Hunter-Young,Japanese,Michaelfurt,Alison Brown,30,(572)991-9490x4324,4.5,50,False
-72,Beck-Malone,Japanese,Nathanstad,Michael Kent,48,+1-946-616-2554x36820,3.1,62,False
-73,"Ramirez, Patrick and Johnson",Chinese,South Lindseychester,Jeremy Johnson,59,001-526-874-8013x680,3.4,77,True
-74,Palmer Ltd,Italian,Prattshire,Kristin Fischer,32,+1-518-620-9387x673,2.1,62,True
-75,Clark and Sons,Indian,Lake Courtneyfort,Victoria Horn,30,304.717.2068x69557,3.9,73,True
-76,Hunter Inc,Italian,Robertsonborough,Rhonda Lopez,23,(492)219-8493x874,4.0,52,True
-77,Wells-Pitts,Japanese,Grantberg,Suzanne Schroeder,26,864-999-3907,1.3,63,True
-78,Bailey PLC,Indian,New Jeremyville,Kendra Carter,52,(983)933-7067x295,1.9,91,True
-79,Johnson Ltd,Japanese,Kaiserchester,Nancy Larson,23,+1-376-556-0497x16275,3.5,94,False
-80,Arnold-Morgan,Japanese,Karenland,Christine Stone,53,001-511-923-2060x69104,4.1,58,False
-81,Knight and Sons,Italian,Castillobury,Thomas Ewing,45,001-920-707-6658,2.9,88,True
-82,Rodriguez-Gonzales,Italian,West Samantha,Mr. John Garrett Jr.,59,8207034713,2.6,54,False
-83,Smith and Sons,Indian,Kristaview,Phillip Duarte,56,001-880-489-9400,3.7,77,False
-84,Reynolds-Taylor,Mexican,Farmerton,Jennifer Miller,47,886-491-3520x456,4.2,99,False
-85,"Rivera, Quinn and Brown",Mexican,East Maryberg,Jordan Scott,31,(342)592-9169x570,1.7,67,True
-86,Romero-Duke,Italian,Petersonside,Amy Butler,59,(541)983-8502x0848,3.2,89,True
-87,"Young, Hernandez and Martin",Indian,Port Daniel,Sydney Johnson,24,001-325-525-9173,2.5,80,True
-88,"Guzman, Hickman and Carroll",Chinese,Dominguezmouth,Gerald Villarreal,39,+1-458-367-8380x03745,2.6,80,True
-89,"Thompson, Logan and Holt",Japanese,Port Gregory,David Acosta,49,997.375.5203x65775,1.8,71,False
-90,Cabrera-Evans,Indian,Amandaton,Julia Estrada,52,(862)622-9419x734,4.2,62,False
-91,Rodriguez LLC,Indian,Lisaland,Kim Green,20,(791)656-8856x50820,1.6,52,False
-92,"Curry, Lynn and Jefferson",Japanese,Matthewview,Robin Cooke,41,(984)348-6980x741,4.4,74,True
-93,Rowe-Banks,Chinese,Lisaside,James Archer,31,352-771-9181x70345,3.9,100,False
-94,Reese-Holland,Indian,East Mary,Lisa Rowe,40,(680)272-5547x48380,3.4,87,True
-95,Richards-Burns,Chinese,Owenstad,Haley Lynch,53,(537)853-0697,3.0,84,True
-96,"Bishop, Armstrong and Duran",Japanese,Christophertown,Sarah Williams,50,(610)878-3633,3.2,74,False
-97,Young-Wright,Mexican,Port Destiny,Michael Boyle,27,001-496-954-9090x026,1.5,82,True
-98,Burgess PLC,Chinese,Johnsonmouth,Shannon Hicks,42,8939219380,4.1,76,True
-99,Anderson-Douglas,Mexican,New Anthonychester,Mrs. Dawn Martinez,34,(572)443-4842x21092,4.7,89,False
-100,"Lewis, Moon and Smith",Chinese,South Laura,Tracy Kidd,35,328-203-5773x768,2.6,52,False
+1,Tapia-Craig,Japanese,East Douglas,Mark Gray,40,001-467-283-1273x472,1.9,93,False
+2,Lowe-Mueller,Mexican,New Victoria,Charles Kim,54,3778412700,3.9,94,False
+3,"Calhoun, Kent and Brown",Italian,Hornburgh,Monica Peterson,44,266-326-8874x53949,1.6,65,False
+4,"Kane, Prince and Carpenter",Chinese,Campbelltown,William Lewis,58,(708)249-1818x3339,3.7,81,True
+5,Miller-Cantu,Indian,North Christopher,Dawn Townsend,45,+1-599-853-2551,1.4,82,False
+6,Hawkins Ltd,Italian,South Cameronburgh,Jennifer Young,49,7663281453,4.4,87,True
+7,"Mccormick, Garrett and Jackson",Japanese,Jenniferhaven,Elizabeth Ochoa,49,660.991.7500x5870,3.3,52,True
+8,"Wallace, Johnson and Anderson",Chinese,Codychester,Joe Kent,24,+1-518-220-4465x9087,3.1,92,True
+9,"Perry, Werner and Shaw",Indian,New Josephmouth,Christopher Haynes,22,9868279458,4.4,73,False
+10,Garza and Sons,Italian,South Danielborough,Sheila Rubio,46,001-586-355-1710x71718,4.5,74,True
+11,Moreno-Davis,Mexican,Caitlinburgh,Brian Hendrix,48,739-889-9341x6231,2.7,76,True
+12,Coleman-Hunt,Mexican,Zimmermanmouth,Nicole Jones,20,(656)582-8614,1.7,57,True
+13,Eaton and Sons,Indian,Chapmanfort,Shannon Smith,43,735-820-2877,3.5,66,True
+14,White-Smith,Mexican,Whiteport,Cassandra Hughes,37,6138311065,3.2,76,True
+15,Kidd-Humphrey,Chinese,Scottland,Jon Baird,32,+1-512-257-6441x8962,1.5,80,True
+16,Cook Ltd,Italian,Zacharyfurt,Elaine Blair,37,001-846-484-2836,2.4,70,False
+17,"Harris, Klein and Burton",Mexican,Davisville,Justin Arellano,46,786.552.9086x58574,4.2,72,True
+18,Vega-Bender,Chinese,Rachelview,David Bright,21,+1-923-874-5374x270,2.7,93,False
+19,Miller-Brooks,Mexican,Lake Jeremyview,Mrs. Jessica Cole,28,5868718832,3.0,56,True
+20,"Moore, Hood and Fox",Japanese,North Jeffrey,Anthony Clark,31,214-928-7055x49535,4.0,69,False
+21,Webb-Pacheco,Chinese,South Christophershire,Rachel Rodriguez,44,+1-715-301-2450x805,1.4,68,True
+22,"Davis, Gonzalez and Johnson",Mexican,Palmerstad,Victor Collins,41,228-432-0423,1.7,53,False
+23,Brown Inc,Japanese,Clarkville,Nichole Aguirre,45,900-707-0810,3.8,81,False
+24,"Mclaughlin, Snyder and Bowman",Chinese,Mariaview,Devin Miller,20,+1-592-832-0337x629,4.5,86,False
+25,Love-Stevens,Mexican,Bowenside,Cheryl Nichols,42,(861)882-8667x386,2.0,54,True
+26,Campbell PLC,Indian,Tiffanyborough,Rebecca Morris,26,727.964.5645x4404,4.2,97,False
+27,"Cochran, Sherman and Ayala",Italian,Tranview,Debra Stewart,54,584.397.5119x12391,4.2,85,True
+28,Rivers-Sparks,Mexican,East Brianfort,Todd Davis,25,001-371-597-3994,1.4,79,True
+29,Jones Ltd,Italian,North Lisaland,Matthew Black,42,728.883.9804x32590,3.3,97,False
+30,"Stevenson, Costa and Howard",Chinese,West Samuel,Allison Clark,53,+1-323-223-6151x425,2.3,76,True
+31,Cruz Ltd,Chinese,East Sandra,Sherri Lawson,48,+1-878-540-4794,4.4,94,True
+32,Taylor-Jenkins,Chinese,New Daniel,Rebecca Pearson,40,(385)917-9009,2.0,83,True
+33,"Carrillo, Kelley and Walker",Indian,South Rachel,Roger Martin,26,521-809-6936x114,2.7,74,False
+34,Barnes-Beck,Japanese,Lake Terri,Denise Reyes,37,573-309-3730x1048,2.7,80,True
+35,"Good, Hunt and Martin",Indian,Port Michael,Tammy Thompson,30,(872)998-8182x19189,4.7,98,False
+36,Hubbard-Robinson,Mexican,Joeside,Kerry Frey,45,(419)489-1357x33906,1.9,79,False
+37,Waters-Branch,Japanese,East Peterstad,Stefanie Lopez,33,(600)545-3138x0919,3.7,65,True
+38,"Carter, Sullivan and Douglas",Mexican,Mariaside,John Marshall,51,940-411-7323x6680,3.8,77,False
+39,"Huang, Perkins and Saunders",Italian,Port Gregorybury,Patricia Mcclain,42,(264)292-9831x4331,2.6,85,True
+40,"Gonzalez, Gibson and Newton",Japanese,North Michael,Whitney Collins,42,001-791-437-6235x48297,1.6,68,False
+41,Pratt Group,Mexican,Veronicaton,Gina Nelson,53,3913736349,3.2,63,True
+42,Castro LLC,Chinese,East Ryan,Christina West,37,443-452-8035x6006,2.3,65,False
+43,Hoover LLC,Mexican,Perezland,Mr. Larry Brown,57,001-631-863-8744,3.1,56,True
+44,Anderson-Greene,Japanese,Lake Jessica,Dr. Mary Perez,55,205.435.9273x2796,3.1,88,True
+45,"Graves, Bennett and Allen",Chinese,West Melissa,Sarah Beltran,58,001-723-447-3093x649,1.9,85,False
+46,Ramos Inc,Italian,Robinport,Daniel Johnson,39,2298452779,2.9,99,True
+47,Dean-Chen,Japanese,New Dawn,Michelle Montgomery,20,677.648.4105,2.8,90,True
+48,Moore and Sons,Japanese,North Jacobstad,Mrs. Laura Reyes,59,253.749.4189x53374,4.7,81,True
+49,Estrada PLC,Japanese,South Melissa,Marcus Burke,33,(255)801-4888,1.5,64,False
+50,Nolan-Schroeder,Japanese,Port Jared,Jerry Fischer,46,518-261-5074,1.2,66,False
+51,Kim-King,Indian,Lisaville,Henry Ingram,28,(783)847-3844,3.7,76,True
+52,Melton LLC,Italian,West Tyler,Mrs. Bridget Shah,27,+1-972-718-2325x103,4.6,86,True
+53,Anderson Inc,Chinese,Port Margaretmouth,Terri Barker,34,+1-689-575-5257x4142,4.1,50,False
+54,Dunn Ltd,Italian,East Briantown,Kimberly Cole,59,+1-505-614-4046x2314,4.5,83,True
+55,"Woods, Lozano and Holloway",Italian,Lake Andrewport,Vanessa Evans,51,3958084780,2.2,67,False
+56,Atkins-Wheeler,Japanese,Jenniferstad,David Baker,41,(454)225-8578x3552,2.9,81,True
+57,Myers Group,Japanese,Hammondborough,Charles Ball,52,375.624.6159,1.1,90,True
+58,"Davidson, Carr and White",Japanese,North Adam,Daniel Ramirez,49,001-393-464-7882x9149,2.5,99,True
+59,"Cunningham, Patton and Miller",Japanese,Julieview,Edward Peterson,21,(876)337-9116x38515,1.1,87,False
+60,"Thompson, Miller and Gomez",Chinese,New Laurenstad,Billy Gray,42,7297276501,1.1,73,False
+61,Williams-Williams,Italian,Stevenshire,Hector Alvarez,45,001-209-847-7663x97413,1.5,89,False
+62,Ford LLC,Chinese,Johnfurt,Elizabeth Esparza,45,544-221-1685x418,2.2,88,True
+63,Hamilton-Williams,Chinese,Port Ericview,Joseph Jones,58,638-548-4861x5779,2.1,51,True
+64,Cohen and Sons,Japanese,New Alice,Brandon Mosley,23,(781)395-5748x9540,2.4,70,False
+65,"Little, Hull and Martin",Japanese,South Jennifer,Peggy Moore,23,375-671-6773,4.8,82,True
+66,Gonzalez-Herrera,Mexican,Davisfort,Dwayne Lutz,57,001-304-365-5008,2.2,75,True
+67,Davis-Lewis,Italian,Griffinton,Adriana Ruiz,31,001-691-366-1684x370,1.2,79,True
+68,Juarez-Adams,Mexican,New Michaelmouth,Darlene Jordan,54,846.809.3755,4.8,66,True
+69,Kent-Perez,Indian,East Stephenberg,Christopher Romero,29,877.806.8602,3.9,71,True
+70,Duffy-Davis,Mexican,Wolfbury,Jose Smith,32,(361)698-5255,3.9,67,False
+71,Perkins and Sons,Indian,Brittanytown,Alan Chavez,53,+1-283-407-6242x1885,3.2,85,True
+72,Smith LLC,Japanese,New Janeshire,Marc Wallace,28,+1-603-557-7138x50432,2.4,99,True
+73,"Wilson, Lee and Donovan",Chinese,New Michael,Micheal Cochran,31,+1-858-608-1039,4.6,89,True
+74,"Sanchez, Huffman and Riley",Indian,Pattersonfurt,Jason Jones,22,(760)750-8188x9860,1.6,63,False
+75,"Johnson, Bernard and Burke",Japanese,Lake Gregory,Joseph Scott,59,826.251.5625x323,4.6,57,True
+76,Singh PLC,Mexican,Jenniferport,Tamara Brown,49,(768)403-7197,2.4,91,True
+77,Bernard Group,Indian,Port Mary,Daniel Luna,45,(352)203-9126,4.5,86,True
+78,Gonzalez-Shepherd,Mexican,Port Jennifer,Austin Miller,36,221-204-4248x50743,1.8,77,True
+79,Zimmerman Inc,Mexican,West Laurie,Robert Miller,24,+1-261-800-1723x152,1.1,70,False
+80,Johnson-Mitchell,Italian,North Katrina,Marc Morris,49,2529206557,3.3,69,False
+81,Garner-Herman,Indian,Aprilmouth,Andrew Gonzalez,39,+1-454-788-7977x4386,2.7,68,False
+82,Hale PLC,Italian,West Bryan,Jackson Rodgers,37,868-814-9468,4.9,67,False
+83,"Case, Austin and Rich",Indian,Patelside,Alexander Collins,56,+1-254-720-1138x32198,2.6,77,False
+84,"Marshall, Perez and Weber",Italian,Bakerbury,Victoria Smith,31,204-294-5149,4.6,61,False
+85,"Morris, Stewart and Hancock",Mexican,Hubbardburgh,Kimberly George,22,443-805-8769x78723,2.9,54,False
+86,Rice-Smith,Chinese,North Debra,Mark Gray,46,+1-617-632-8590x511,3.7,59,False
+87,Oliver-Williams,Japanese,Emilyfort,Jessica Blevins,34,514-563-6905,4.9,97,False
+88,Riley-Smith,Japanese,Annfort,Stephanie Weaver,50,368-614-3809x7998,4.0,85,False
+89,"Hall, Ibarra and Miller",Mexican,Port Melanie,Travis Little,50,+1-983-508-1520x21204,2.6,56,False
+90,Woods-Buchanan,Italian,North Steven,Mrs. Christine Myers,50,001-647-314-4871,2.1,98,True
+91,Cooper-Brock,Japanese,Fishershire,Catherine Zimmerman,49,592.895.4913x2449,4.8,92,True
+92,Solis and Sons,Chinese,Scottview,Ann Mccarthy,34,748.213.0548x70979,5.0,74,False
+93,Gilmore-Jennings,Japanese,Port Gregory,Kyle Taylor,36,657-534-4752,1.9,98,False
+94,Ferguson-Lawrence,Italian,Danielshire,Christopher Cordova,57,975-383-9085,2.6,81,False
+95,Acosta Ltd,Indian,Tiffanyport,Crystal Baker,56,890-744-9385x90222,1.9,74,False
+96,"Price, Meadows and Stewart",Japanese,West Melissa,Anthony Banks,28,(827)210-7252x23511,3.9,70,True
+97,Brennan and Sons,Indian,Millerchester,Robert Porter,42,567.886.5030x8898,2.5,99,True
+98,Davila Ltd,Japanese,New Leslie,Jeffrey Lindsey,55,935.826.7307,4.9,80,True
+99,"Francis, Mendez and Cohen",Mexican,Port Sandraburgh,Juan Huffman,45,001-500-348-4999x9527,4.2,79,False
+100,Reed-Chase,Mexican,Lake Juliechester,Lauren Robertson,40,(997)898-4395,3.4,100,False

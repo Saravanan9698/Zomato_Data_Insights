@@ -1,101 +1,101 @@
 delivery_id,order_id,delivery_person_id,delivery_status,distance,delivery_time,estimated_time,delivery_fee,vehicle_type
-1,2023,14,On the way,9.53,22.1,27,4.7,Bike
-2,1001,48,Delivered,6.72,55.5,23,3.53,Car
-3,1001,3,Delivered,9.82,53.5,20,2.36,Car
-4,1001,84,On the way,5.81,10.8,29,3.34,Car
-5,1001,70,Delivered,9.86,38.3,22,3.2,Bike
-6,1001,70,On the way,7.76,28.5,20,3.9,Bike
-7,1001,95,On the way,1.51,25.5,24,4.25,Bike
-8,9876,13,On the way,2.31,58.5,30,4.96,Bike
-9,2023,2,Delivered,7.65,55.6,29,3.89,Cycle
-10,9876,4,On the way,4.8,10.7,23,2.01,Scooter
-11,2023,3,On the way,2.12,56.1,16,3.67,Scooter
-12,9876,20,On the way,4.27,49.7,24,2.86,Bike
-13,9876,90,On the way,4.24,23.8,29,2.59,Scooter
-14,1001,22,Delivered,8.76,23.6,22,2.46,Cycle
-15,1001,22,Delivered,2.69,59.1,26,3.88,Scooter
-16,2023,78,Delivered,4.16,39.5,17,3.92,Scooter
-17,2023,95,On the way,7.47,20.9,17,3.4,Scooter
-18,2023,70,On the way,6.06,20.6,23,3.83,Cycle
-19,1001,54,Delivered,5.41,26.4,23,3.92,Cycle
-20,2023,1,Delivered,1.31,55.8,29,2.85,Cycle
-21,9876,42,Delivered,1.72,33.1,28,2.51,Car
-22,2023,50,Delivered,1.93,39.8,24,4.68,Bike
-23,2023,53,Delivered,1.71,11.9,19,2.06,Bike
-24,1001,48,On the way,8.81,49.9,18,3.53,Bike
-25,2023,44,Delivered,8.84,40.5,21,4.88,Car
-26,1001,34,On the way,5.79,46.9,20,4.86,Car
-27,2023,34,Delivered,5.54,30.5,30,4.87,Cycle
-28,9876,77,On the way,9.2,45.3,25,4.28,Car
-29,9876,50,On the way,1.22,16.2,20,3.5,Cycle
-30,2023,70,On the way,3.23,33.6,27,3.16,Bike
-31,1001,91,Delivered,4.93,17.1,25,3.18,Cycle
-32,1001,98,On the way,8.53,32.9,16,2.31,Car
-33,2023,26,Delivered,7.73,30.2,23,2.5,Bike
-34,9876,68,On the way,4.91,57.5,27,2.6,Car
-35,1001,93,On the way,8.14,37.1,20,4.81,Bike
-36,1001,71,Delivered,5.83,54.7,29,3.16,Car
-37,2023,48,On the way,9.04,37.2,16,2.51,Bike
-38,2023,59,On the way,5.77,11.9,25,4.21,Car
-39,9876,69,On the way,9.45,12.3,20,4.4,Cycle
-40,1001,62,On the way,5.8,48.5,22,4.46,Scooter
-41,9876,8,Delivered,2.17,11.0,20,3.77,Bike
-42,2023,56,On the way,4.49,28.0,21,4.12,Scooter
-43,1001,42,On the way,4.94,50.6,26,4.18,Scooter
-44,1001,9,Delivered,5.46,18.5,25,3.19,Bike
-45,1001,26,On the way,8.28,40.9,21,2.04,Bike
-46,1001,5,On the way,6.14,19.2,16,2.94,Bike
-47,9876,67,Delivered,6.43,57.9,15,2.72,Cycle
-48,2023,94,Delivered,9.14,19.3,26,2.7,Scooter
-49,1001,44,On the way,7.85,11.2,21,4.88,Car
-50,1001,30,Delivered,9.1,12.6,22,4.23,Cycle
-51,9876,100,Delivered,2.41,16.2,19,4.77,Scooter
-52,9876,73,On the way,4.36,15.2,28,2.71,Bike
-53,9876,94,Delivered,8.08,42.8,22,4.42,Scooter
-54,1001,14,On the way,8.23,12.5,28,4.44,Scooter
-55,2023,2,On the way,4.17,31.8,24,2.01,Scooter
-56,9876,38,Delivered,5.89,17.1,25,3.87,Bike
-57,1001,44,Delivered,5.88,15.2,17,2.01,Cycle
-58,2023,76,On the way,1.94,18.6,25,4.75,Bike
-59,9876,91,On the way,5.77,45.1,22,4.05,Bike
-60,2023,79,On the way,7.61,52.6,25,2.13,Scooter
-61,2023,87,Delivered,9.33,43.7,24,2.13,Scooter
-62,9876,35,On the way,8.66,17.1,23,3.03,Car
-63,9876,13,On the way,9.28,42.3,15,3.21,Cycle
-64,9876,54,Delivered,7.07,32.4,25,4.96,Cycle
-65,9876,93,On the way,9.43,39.8,16,2.57,Car
-66,9876,77,Delivered,4.67,42.5,17,2.2,Bike
-67,9876,33,Delivered,9.84,24.0,22,4.72,Cycle
-68,1001,73,Delivered,4.82,16.3,21,2.14,Car
-69,2023,40,On the way,6.91,32.3,28,3.92,Bike
-70,9876,47,Delivered,3.12,22.1,28,3.68,Scooter
-71,2023,7,Delivered,7.51,56.9,20,2.43,Bike
-72,9876,31,Delivered,4.98,44.8,16,5.0,Cycle
-73,9876,54,Delivered,2.85,29.8,29,2.33,Scooter
-74,9876,71,On the way,1.21,45.2,26,4.33,Car
-75,2023,45,Delivered,5.13,30.8,18,4.68,Cycle
-76,1001,38,Delivered,5.13,10.2,16,3.36,Scooter
-77,1001,15,Delivered,6.01,54.6,17,4.5,Cycle
-78,1001,50,On the way,6.53,33.0,29,3.42,Cycle
-79,1001,58,Delivered,6.56,18.0,17,4.12,Bike
-80,1001,83,On the way,1.61,22.1,30,4.06,Bike
-81,9876,18,Delivered,6.65,37.5,24,2.04,Car
-82,9876,94,On the way,3.5,21.9,25,2.27,Cycle
-83,1001,76,On the way,4.35,47.0,18,3.45,Car
-84,9876,31,On the way,7.23,59.7,29,3.27,Bike
-85,1001,96,Delivered,6.32,59.1,24,2.65,Cycle
-86,1001,27,On the way,7.14,58.8,20,2.72,Cycle
-87,1001,49,On the way,4.23,10.4,21,4.12,Car
-88,2023,43,Delivered,4.85,47.8,18,3.71,Car
-89,1001,72,Delivered,2.35,52.7,26,4.58,Car
-90,2023,91,On the way,9.51,59.3,30,4.04,Car
-91,2023,64,Delivered,4.47,20.9,23,4.47,Scooter
-92,1001,74,On the way,6.23,37.2,20,2.41,Bike
-93,1001,59,On the way,5.45,21.0,15,4.02,Car
-94,9876,82,On the way,4.72,50.7,19,4.26,Bike
-95,2023,39,Delivered,4.22,13.6,18,3.5,Scooter
-96,2023,15,On the way,8.06,49.9,30,3.12,Car
-97,2023,62,On the way,2.08,31.7,15,3.85,Cycle
-98,2023,1,Delivered,4.11,20.4,28,3.72,Bike
-99,1001,22,On the way,6.04,19.2,24,3.48,Cycle
-100,9876,28,On the way,5.71,43.5,26,4.33,Car
+1,1001,3,On the way,2.08,35.1,29,4.05,Bike
+2,1001,47,On the way,2.71,23.6,21,4.65,Cycle
+3,1001,52,On the way,1.37,16.6,15,3.21,Bike
+4,9876,94,On the way,8.47,50.7,30,3.59,Scooter
+5,1001,65,Delivered,6.51,56.9,20,4.75,Cycle
+6,9876,10,Delivered,6.15,59.5,27,4.24,Scooter
+7,1001,13,Delivered,9.89,21.5,20,3.27,Car
+8,2023,24,On the way,3.11,10.7,30,4.9,Cycle
+9,9876,31,Delivered,8.45,48.1,15,3.96,Scooter
+10,9876,17,On the way,9.69,19.6,19,4.64,Bike
+11,1001,60,Delivered,2.62,11.8,26,3.47,Scooter
+12,9876,43,Delivered,5.33,55.2,30,3.27,Bike
+13,1001,85,On the way,6.22,14.2,25,2.31,Bike
+14,2023,18,On the way,2.99,44.4,19,2.54,Cycle
+15,1001,100,Delivered,3.31,57.7,28,4.39,Scooter
+16,2023,57,Delivered,4.7,39.9,28,2.25,Scooter
+17,9876,86,On the way,7.6,29.8,29,2.3,Bike
+18,1001,33,Delivered,2.94,43.2,18,4.26,Bike
+19,1001,13,On the way,3.49,26.0,22,3.77,Bike
+20,1001,50,Delivered,9.75,33.1,21,2.28,Bike
+21,1001,83,On the way,9.71,46.8,15,3.21,Cycle
+22,2023,32,Delivered,3.96,19.5,28,2.2,Scooter
+23,1001,66,Delivered,7.69,50.4,22,2.91,Car
+24,2023,41,Delivered,9.56,40.1,22,3.62,Car
+25,9876,19,On the way,8.39,28.7,27,3.64,Bike
+26,9876,99,Delivered,5.82,26.7,15,4.63,Cycle
+27,9876,98,Delivered,1.52,41.6,30,2.9,Car
+28,2023,85,Delivered,6.67,25.2,30,3.5,Bike
+29,9876,8,On the way,1.2,29.4,29,3.6,Scooter
+30,2023,94,On the way,2.86,49.8,28,4.02,Scooter
+31,2023,6,On the way,5.96,48.1,21,4.45,Scooter
+32,1001,83,On the way,6.59,15.9,23,3.41,Car
+33,9876,85,Delivered,5.15,20.5,17,4.86,Scooter
+34,9876,72,On the way,5.32,31.6,16,4.17,Car
+35,1001,24,On the way,6.41,13.3,19,2.44,Car
+36,2023,38,On the way,5.81,59.9,30,4.5,Car
+37,1001,93,Delivered,7.56,59.2,28,4.39,Cycle
+38,2023,52,Delivered,6.61,29.4,24,2.06,Car
+39,1001,58,On the way,1.88,12.4,29,3.81,Bike
+40,2023,89,Delivered,9.32,51.5,19,3.09,Bike
+41,1001,30,Delivered,4.6,48.5,26,2.25,Bike
+42,1001,60,Delivered,2.18,59.6,21,3.27,Scooter
+43,9876,56,On the way,1.31,12.2,26,2.4,Bike
+44,2023,61,Delivered,8.12,33.3,26,2.86,Cycle
+45,2023,14,On the way,6.79,58.1,26,3.77,Scooter
+46,1001,9,On the way,2.84,49.5,18,2.36,Cycle
+47,9876,10,On the way,6.61,49.0,25,4.51,Scooter
+48,9876,92,On the way,1.09,21.8,18,4.33,Cycle
+49,9876,33,Delivered,7.4,47.9,22,3.0,Cycle
+50,9876,45,Delivered,3.92,18.1,16,2.02,Scooter
+51,1001,61,On the way,2.53,59.9,23,2.81,Bike
+52,9876,4,On the way,9.6,28.4,27,3.51,Car
+53,1001,75,Delivered,1.93,32.3,29,2.88,Car
+54,1001,58,On the way,8.2,29.1,30,4.59,Cycle
+55,9876,21,On the way,7.69,40.5,23,3.44,Scooter
+56,1001,89,Delivered,1.25,45.1,30,4.95,Cycle
+57,9876,9,On the way,3.87,31.5,23,3.3,Cycle
+58,2023,8,On the way,4.72,47.8,19,2.27,Car
+59,2023,21,On the way,3.53,30.1,15,4.33,Bike
+60,9876,51,On the way,4.73,13.0,29,4.93,Cycle
+61,2023,48,On the way,3.17,27.4,18,4.48,Scooter
+62,1001,41,On the way,7.79,18.5,27,3.05,Scooter
+63,1001,85,On the way,3.8,10.4,18,2.4,Scooter
+64,9876,19,Delivered,8.04,27.7,17,4.51,Cycle
+65,9876,26,On the way,5.26,37.7,18,3.2,Bike
+66,1001,88,Delivered,4.09,46.0,23,2.41,Car
+67,1001,86,On the way,7.24,11.0,28,3.6,Bike
+68,1001,20,Delivered,9.64,37.1,27,3.19,Cycle
+69,1001,37,On the way,3.39,25.5,30,2.2,Car
+70,9876,96,On the way,5.49,50.3,18,4.77,Car
+71,2023,14,On the way,8.16,45.6,26,3.39,Bike
+72,1001,52,On the way,5.63,16.8,18,3.45,Scooter
+73,9876,5,Delivered,3.06,23.2,22,3.11,Bike
+74,2023,30,Delivered,7.06,19.0,22,2.38,Bike
+75,1001,93,On the way,3.91,18.9,27,2.32,Cycle
+76,9876,80,Delivered,3.18,30.5,21,4.52,Scooter
+77,2023,99,Delivered,9.23,47.8,16,4.99,Scooter
+78,9876,10,On the way,3.94,21.2,26,2.11,Car
+79,9876,16,On the way,3.94,30.6,23,4.8,Car
+80,2023,66,Delivered,1.74,50.6,28,2.47,Car
+81,1001,84,On the way,6.16,54.5,16,4.07,Cycle
+82,1001,58,On the way,1.81,33.7,27,4.02,Cycle
+83,1001,100,Delivered,4.38,24.2,28,2.35,Bike
+84,2023,99,Delivered,2.15,50.2,28,3.72,Scooter
+85,1001,21,Delivered,6.27,48.3,25,4.9,Bike
+86,9876,15,On the way,8.6,17.6,20,2.15,Cycle
+87,1001,82,Delivered,3.71,44.6,19,2.8,Cycle
+88,9876,15,Delivered,9.73,59.4,29,3.7,Bike
+89,2023,88,Delivered,5.1,28.4,29,3.9,Car
+90,2023,74,Delivered,1.28,50.0,20,4.01,Scooter
+91,2023,72,On the way,3.8,18.9,30,3.82,Scooter
+92,9876,40,On the way,1.48,23.7,22,4.15,Scooter
+93,2023,4,Delivered,3.08,54.4,16,4.12,Cycle
+94,2023,91,On the way,4.18,19.6,27,2.54,Scooter
+95,9876,38,On the way,2.13,20.0,19,2.83,Cycle
+96,2023,1,Delivered,7.05,34.0,20,4.65,Cycle
+97,1001,77,Delivered,9.11,41.8,20,3.24,Cycle
+98,9876,7,On the way,9.15,14.6,20,2.22,Bike
+99,9876,13,Delivered,1.06,19.0,29,2.87,Bike
+100,1001,4,On the way,4.56,57.4,23,4.7,Cycle
