@@ -1,10 +1,10 @@
-Zomato - Food Delivery Data Insights
+**Zomato - Food Delivery Data Insights**
 
-Project Overview
+**Project Overview**
 
 This project aims to analyze food delivery data to enhance operational efficiency and customer satisfaction. An interactive Streamlit app is developed to manage orders, customers, restaurants, and deliveries, with robust SQL database operations.
 
-Skills Used
+**Skills Used**
 
 SQL
 
@@ -14,7 +14,7 @@ Streamlit app
 
 Database Management
 
-Key Features
+**Key Features**
 
 Data Entry Tool: CRUD operations with dynamic schema management.
 
@@ -26,7 +26,7 @@ Order Management: Track orders and delivery performance.
 
 Customer Analytics: Analyze preferences and order patterns.
 
-Approach
+**Approach**
 
 Dataset Creation: Generate synthetic data using Python (Faker).
 
@@ -46,7 +46,7 @@ Streamlit app for data operations.
 
 Project documentation.
 
-How to Run
+**How to Run**
 
 Clone the repository.
 
@@ -54,7 +54,7 @@ Install dependencies via pip install -r requirements.txt.
 
 Run the app: streamlit run app.py.
 
-Conclusion
+**Conclusion**
 
 This project provides a scalable solution for managing food delivery operations, offering valuable business insights and a user-friendly interface.
 
