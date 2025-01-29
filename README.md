@@ -5,11 +5,11 @@ This project aims to analyze food delivery data to enhance operational efficienc
 
 # Table of Contents
 
-- [Business_use_cases](#Business_use_cases)
+- [Business use cases](#Business_use_cases)
 
 - [Methodology](#Methodology)
   
-- [Technical_Tags](#Technical_Tags)
+- [Technical Tags](#Technical_Tags)
   
 # Business use Cases
 
