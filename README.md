@@ -11,7 +11,7 @@ This project aims to analyze food delivery data to enhance operational efficienc
   
 - [Deliverables](#Deliverables)
 
-- [Technical_Tags](#Technical_Tags)
+- [Technical Tags](#Technical_Tags)
 
 - [Conclusion](#Conclusion)
 
