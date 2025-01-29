@@ -4,10 +4,10 @@ This project aims to analyze food delivery data to enhance operational efficienc
 
 # Skills Applied
 
-SQL
-Python
-Streamlit app
-Database Management
+#SQL
+#Python
+#Streamlit- app
+#Database- Management
 
 **Key Features**
 
