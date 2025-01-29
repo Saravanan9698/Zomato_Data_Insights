@@ -1,15 +1,12 @@
-# Zomato_Data_Insights
+# Zomato Data Insights
 
 This project aims to analyze food delivery data to enhance operational efficiency and customer satisfaction. An interactive Streamlit app is developed to manage orders, customers, restaurants, and deliveries, with robust SQL database operations.
 
-**Skills Used**
+# Skills Applied
 
 SQL
-
 Python
-
 Streamlit app
-
 Database Management
 
 **Key Features**
