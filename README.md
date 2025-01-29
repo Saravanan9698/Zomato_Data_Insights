@@ -1,4 +1,4 @@
-**Zomato - Food Delivery Data Insights**
+ZOMATO_DATA_INSIGHTS
 
 **Project Overview**
 
