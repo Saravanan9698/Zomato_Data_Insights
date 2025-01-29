@@ -1,9 +1,9 @@
-# Zomato Data Insights
+**# Zomato Data Insights**
 
 This project aims to analyze food delivery data to enhance operational efficiency and customer satisfaction. An interactive Streamlit app is developed to manage orders, customers, restaurants, and deliveries, with robust SQL database operations.
 
 
-# Table of Contents
+**# Table of Contents**
 
 - [Business use cases](#Business_use_cases)
 
@@ -13,25 +13,25 @@ This project aims to analyze food delivery data to enhance operational efficienc
   
 # Business use cases
 
-- Restaurant Performance Analysis
+**- Restaurant Performance Analysis**
   
   Revenue & Sales Insights: Analyze sales trends across different restaurants and regions.
   
   Menu Performance:         Identify high-demand and low-performing menu items.
   
-- Market Expansion Strategy
+**- Market Expansion Strategy**
   
   Competitor Benchmarking: Assess market saturation and performance of competitors to optimize new restaurant openings.
   
   Customer Demographics:   Analyze user preferences and demographic trends in different cities.
 
-- Marketing and Promotions Optimization
+**- Marketing and Promotions Optimization**
 
   Campaign Effectiveness: Measure the success of marketing campaigns by tracking engagement, conversions, and reviews.
   
   Targeted Promotions:    Tailor promotional offers based on user dining patterns and spending behavior.
 
-# Approach
+**# Approach**
 
 **Dataset Creation:** Generate synthetic data using Python (Faker).
 
