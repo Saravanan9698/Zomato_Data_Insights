@@ -2,17 +2,13 @@
 
 This project aims to analyze food delivery data to enhance operational efficiency and customer satisfaction. An interactive Streamlit app is developed to manage orders, customers, restaurants, and deliveries, with robust SQL database operations.
 
-# Skills Applied
 
-## Table of Contents
+# Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
+- [Business_use_cases](#Business_use_cases)
+- [Methodology](#Methodology)
+- [Technical_Tags](#Technical_Tags)
+- 
 **Key Features**
 
 Data Entry Tool: CRUD operations with dynamic schema management.
