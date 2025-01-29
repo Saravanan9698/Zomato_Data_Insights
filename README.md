@@ -6,20 +6,19 @@ This project aims to analyze food delivery data to enhance operational efficienc
 # Table of Contents
 
 - [Business_use_cases](#Business_use_cases)
+
 - [Methodology](#Methodology)
+  
 - [Technical_Tags](#Technical_Tags)
-- 
-**Key Features**
+  
+# Business use Cases
 
-Data Entry Tool: CRUD operations with dynamic schema management.
-
-Data Insights: SQL queries and visualizations for business insights.
-
-OOP Implementation: Encapsulation of database operations.
-
-Order Management: Track orders and delivery performance.
-
+Zomato data insights can be a goldmine for various business use cases, providing actionable information across industries such as food delivery, marketing, data analytics, and urban development. Here are some compelling business use cases:
 Customer Analytics: Analyze preferences and order patterns.
+
+- Restaurant Performance Analysis
+- Market Expansion Strategy
+- Marketing and Promotions Optimization
 
 **Approach**
 
