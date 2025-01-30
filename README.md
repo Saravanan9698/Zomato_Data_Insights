@@ -18,13 +18,13 @@ This project aims to analyze food delivery data to enhance operational efficienc
   
 # Business use cases
 
-  - Restaurant Performance Analysis
+  - **Restaurant Performance Analysis**
     
     **Revenue & Sales Insights:** Analyze sales trends across different restaurants and regions.
     
     **Menu Performance:**         Identify high-demand and low-performing menu items.
   
-  - Market Expansion Strategy
+  **- Market Expansion Strategy**
     
     **Competitor Benchmarking:** Assess market saturation and performance of competitors to optimize new restaurant openings.
     
