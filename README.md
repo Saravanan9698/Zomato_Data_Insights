@@ -20,21 +20,27 @@ This project aims to analyze food delivery data to enhance operational efficienc
 
   - **Restaurant Performance Analysis**
     
-    **Revenue & Sales Insights:** Analyze sales trends across different restaurants and regions.
+    **Revenue & Sales Insights:**
+        Analyze sales trends across different restaurants and regions.
     
-    **Menu Performance:**         Identify high-demand and low-performing menu items.
+    **Menu Performance:**
+        Identify high-demand and low-performing menu items.
   
-  **- Market Expansion Strategy**
+ - **Market Expansion Strategy**
     
-    **Competitor Benchmarking:** Assess market saturation and performance of competitors to optimize new restaurant openings.
+    **Competitor Benchmarking:**
+       Assess market saturation and performance of competitors to optimize new restaurant openings.
     
-    **Customer Demographics:**   Analyze user preferences and demographic trends in different cities.
+    **Customer Demographics:**
+       Analyze user preferences and demographic trends in different cities.
   
   - Marketing and Promotions Optimization
   
-    **Campaign Effectiveness:** Measure the success of marketing campaigns by tracking engagement, conversions, and reviews.
+    **Campaign Effectiveness:**
+        Measure the success of marketing campaigns by tracking engagement, conversions, and reviews.
     
-    **Targeted Promotions:**   Tailor promotional offers based on user dining patterns and spending behavior.
+    **Targeted Promotions:**
+        Tailor promotional offers based on user dining patterns and spending behavior.
     
 
 # Approach
