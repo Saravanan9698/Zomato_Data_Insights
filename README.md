@@ -34,7 +34,7 @@ This project aims to analyze food delivery data to enhance operational efficienc
     *Customer Demographics:*
        Analyze user preferences and demographic trends in different cities.
   
-   🎯 Marketing and Promotions Optimization
+ - *Marketing and Promotions Optimization*
   
     *Campaign Effectiveness:*
         Measure the success of marketing campaigns by tracking engagement, conversions, and reviews.
