@@ -1,82 +1,120 @@
-# Zomato Data Insights
+<p align="center">
+  <img src="https://your-image-link.com/banner.png" alt="Zomato Data Insights Banner" width="100%" />
+</p>
 
-This project aims to analyze food delivery data to enhance operational efficiency and customer satisfaction. An interactive Streamlit app is developed to manage orders, customers, restaurants, and deliveries, with robust SQL database operations.
+<h1 align="center">🍽️ Zomato Data Insights</h1>
 
+<p align="center">
+  <b>A complete data science project for restaurant operations, analysis, and dashboarding</b>
+</p>
 
-# Table of Contents
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/python-3.11-blue.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Streamlit-1.35.0-red"></a>
+  <a href="#"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Made%20with-Faker%20%26%20Pandas-brightgreen"></a>
+</p>
 
-- [Business use cases](#Business_use_cases)
+---
 
-- [Approach](#Approach)
-  
-- [Deliverables](#Deliverables)
+## 📁 Project Structure
 
-- [Technical Tags](#Technical_Tags)
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Zomato Data Insights Folder Structure</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fafafa;
+      padding: 20px;
+    }
+    h2 {
+      color: #d32f2f;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 20px;
+    }
+    li::before {
+      content: "📁 ";
+      color: #4caf50;
+    }
+    .file::before {
+      content: "📄 ";
+      color: #2196f3;
+    }
+  </style>
+</head>
+<body>
+  <h2>📁 ZOMATO_INSIGHTS</h2>
+  <ul>
+    <li>📁 env</li>
+    <li class="file">📄 customers.csv</li>
+    <li class="file">📄 deliveries.csv</li>
+    <li class="file">📄 orders.csv</li>
+    <li class="file">📄 restaurants.csv</li>
+    <li class="file">📄 requirements.txt</li>
+    <li class="file">📄 Zomato_Data Insights Presentation.pptx</li>
+    <li class="file">📄 Zomato_Data Insights Presentation.ts</li>
+    <li class="file">📄 Zomato_Insights.ipynb</li>
+    <li class="file">📄 Zomato_SQL.ipynb</li>
+    <li class="file">📄 Zomato_Streamlit.py</li>
+  </ul>
+</body>
+</html>
 
-- [Conclusion](#Conclusion)
+---
 
-  
-# Business use cases
+## 🎯 Business Use Cases
 
-  - **Restaurant Performance Analysis**
-    
-    **Revenue & Sales Insights:**
-        Analyze sales trends across different restaurants and regions.
-    
-    **Menu Performance:**
-        Identify high-demand and low-performing menu items.
-  
- - **Market Expansion Strategy**
-    
-    **Competitor Benchmarking:**
-       Assess market saturation and performance of competitors to optimize new restaurant openings.
-    
-    **Customer Demographics:**
-       Analyze user preferences and demographic trends in different cities.
-  
-  - Marketing and Promotions Optimization
-  
-    **Campaign Effectiveness:**
-        Measure the success of marketing campaigns by tracking engagement, conversions, and reviews.
-    
-    **Targeted Promotions:**
-        Tailor promotional offers based on user dining patterns and spending behavior.
-    
+### 📊 Restaurant Performance Analysis
+- **Revenue & Sales Insights** – Understand sales trends across cities and restaurants.
+- **Menu Optimization** – Spot high-demand and underperforming menu items.
 
-# Approach
+### 🌍 Market Expansion Strategy
+- **Competitor Benchmarking** – Evaluate market saturation and competitor growth.
+- **Customer Demographics** – Analyze dining behavior by region.
 
-  **Dataset Creation:** Generate synthetic data using Python (Faker).
-  
-  **Database Design:** Create normalized tables for scalability.
-  
-  **Streamlit App:** Interactive UI for data entry and insights.
-  
-  **Insights Extraction:** Use SQL and Python for analysis.
-  
+### 🎯 Marketing & Promotions
+- **Campaign Effectiveness** – Track marketing engagement and conversion.
+- **Targeted Offers** – Customize promotions based on user behavior.
 
-# Deliverables
+---
 
-  - Python scripts for data generation and management.
-  
-  - 20 SQL queries for analysis.
-  
-  - Streamlit app for data visualization.
-  
-  - Project documentation.
-    
+## 🧠 Approach
 
-# Technical Tags
+- 🔧 **Synthetic Dataset Creation** using `faker`
+- 🧱 **Normalized Database Design** with MySQL (`pymysql`)
+- 📈 **Streamlit App** for interactive dashboards and data entry
+- 🧪 **SQL & Python Analysis** for business insights
 
-  - Python
+---
 
-  - SQL
+## 📦 Deliverables
 
-  - Database Creation
+- 🐍 Python scripts for data simulation and dashboard
+- 📜 20+ insightful SQL queries
+- 🖥️ Streamlit web app for visual exploration
+- 📘 Complete project documentation and presentation
 
-  - Streamlit 
+---
 
+## 🛠️ Tech Stack
 
-# Conclusion
+`Python` • `Streamlit` • `SQL` • `Faker` • `PyMySQL` • `Pandas` • `Data Visualization`
 
-  This project provides a scalable solution for managing food delivery operations, offering valuable business insights and a user-friendly interface.
+---
+
+## ✅ Conclusion
+
+This end-to-end data science solution empowers food delivery platforms to:
+- Drive data-informed decisions
+- Optimize restaurant operations
+- Personalize customer experiences
+
+> 🚀 *A great showcase for Data Science, Streamlit, and Business Analytics skills.*
+
+---
+
 
