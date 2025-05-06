@@ -20,38 +20,38 @@ This project aims to analyze food delivery data to enhance operational efficienc
 
   - *Restaurant Performance Analysis*
     
-    *Revenue & Sales Insights:*
+    **Revenue & Sales Insights:**
         Analyze sales trends across different restaurants and regions.
     
-    *Menu Performance:*
+    **Menu Performance:**
         Identify high-demand and low-performing menu items.
   
  - *Market Expansion Strategy*
     
-    *Competitor Benchmarking:*
+    **Competitor Benchmarking:**
        Assess market saturation and performance of competitors to optimize new restaurant openings.
     
-    *Customer Demographics:*
+    **Customer Demographics:**
        Analyze user preferences and demographic trends in different cities.
   
  - *Marketing and Promotions Optimization*
   
-    *Campaign Effectiveness:*
+    **Campaign Effectiveness:**
         Measure the success of marketing campaigns by tracking engagement, conversions, and reviews.
     
-    *Targeted Promotions:*
+    **Targeted Promotions:**
         Tailor promotional offers based on user dining patterns and spending behavior.
     
 
 # 🛠️ Approach
 
-  *Dataset Creation:* Generate synthetic data using Python (Faker).
+  **Dataset Creation:** Generate synthetic data using Python (Faker).
   
-  *Database Design:* Create normalized tables for scalability.
+  **Database Design:** Create normalized tables for scalability.
   
-  *Streamlit App:* Interactive UI for data entry and insights.
+  **Streamlit App:** Interactive UI for data entry and insights.
   
-  *Insights Extraction:* Use SQL and Python for analysis.
+  **Insights Extraction:** Use SQL and Python for analysis.
   
 
 # 📦 Deliverables
