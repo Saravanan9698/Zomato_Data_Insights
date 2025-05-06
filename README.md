@@ -1,120 +1,98 @@
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Zomato Data Insights Banner" width="100%" />
-</p>
-
-<h1 align="center">🍽️ Zomato Data Insights</h1>
-
-<p align="center">
-  <b>A complete data science project for restaurant operations, analysis, and dashboarding</b>
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/python-3.11-blue.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Streamlit-1.35.0-red"></a>
-  <a href="#"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Made%20with-Faker%20%26%20Pandas-brightgreen"></a>
-</p>
-
----
-
-## 📁 Project Structure
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Zomato Data Insights Folder Structure</title>
+  <title>Zomato Data Insights</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      background: #fafafa;
-      padding: 20px;
+      line-height: 1.6;
+      margin: 20px;
+      color: #333;
     }
-    h2 {
-      color: #d32f2f;
+    h1, h2, h3 {
+      color: #D9230F;
     }
-    ul {
-      list-style-type: none;
-      padding-left: 20px;
+    code {
+      background-color: #f4f4f4;
+      padding: 2px 5px;
+      border-radius: 4px;
     }
-    li::before {
-      content: "📁 ";
-      color: #4caf50;
-    }
-    .file::before {
-      content: "📄 ";
-      color: #2196f3;
+    .badge img {
+      margin-right: 5px;
     }
   </style>
 </head>
 <body>
-  <h2>📁 ZOMATO_INSIGHTS</h2>
+
+  <h1>🍽️ Zomato Data Insights</h1>
+
+  <div class="badge">
+    <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" alt="Python Badge">
+    <img src="https://img.shields.io/badge/Streamlit-Enabled-red?logo=streamlit" alt="Streamlit Badge">
+    <img src="https://img.shields.io/badge/SQL-MySQL-lightgrey?logo=mysql" alt="SQL Badge">
+    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
+    <img src="https://img.shields.io/badge/Project-Complete-brightgreen" alt="Project Status">
+  </div>
+
+  <p>
+    <strong>Zomato Data Insights</strong> is a data-driven food delivery analysis system aimed at enhancing operational efficiency and improving customer satisfaction. Built using <code>Python</code>, <code>SQL</code>, and <code>Streamlit</code>, it offers real-time analytics and interactive dashboards for managing orders, customers, restaurants, and deliveries.
+  </p>
+
+  <h2>📑 Table of Contents</h2>
   <ul>
-    <li>📁 env</li>
-    <li class="file">📄 customers.csv</li>
-    <li class="file">📄 deliveries.csv</li>
-    <li class="file">📄 orders.csv</li>
-    <li class="file">📄 restaurants.csv</li>
-    <li class="file">📄 requirements.txt</li>
-    <li class="file">📄 Zomato_Data Insights Presentation.pptx</li>
-    <li class="file">📄 Zomato_Data Insights Presentation.ts</li>
-    <li class="file">📄 Zomato_Insights.ipynb</li>
-    <li class="file">📄 Zomato_SQL.ipynb</li>
-    <li class="file">📄 Zomato_Streamlit.py</li>
+    <li><a href="#business">Business Use Cases</a></li>
+    <li><a href="#approach">Approach</a></li>
+    <li><a href="#deliverables">Deliverables</a></li>
+    <li><a href="#tags">Technical Tags</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
   </ul>
+
+  <h2 id="business">📊 Business Use Cases</h2>
+
+  <h3>🏪 Restaurant Performance Analysis</h3>
+  <ul>
+    <li><strong>Revenue & Sales Insights:</strong> Analyze trends by region and time to assess restaurant performance.</li>
+    <li><strong>Menu Optimization:</strong> Discover top-performing and underperforming dishes.</li>
+  </ul>
+
+  <h3>🌍 Market Expansion Strategy</h3>
+  <ul>
+    <li><strong>Competitor Benchmarking:</strong> Evaluate saturation and competitor stats for new openings.</li>
+    <li><strong>Customer Demographics:</strong> Study user behavior and regional preferences.</li>
+  </ul>
+
+  <h3>🎯 Marketing and Promotions Optimization</h3>
+  <ul>
+    <li><strong>Campaign Effectiveness:</strong> Measure marketing outcomes using engagement and conversion data.</li>
+    <li><strong>Targeted Promotions:</strong> Personalize offers based on user spending patterns.</li>
+  </ul>
+
+  <h2 id="approach">🛠️ Approach</h2>
+  <ul>
+    <li><strong>Dataset Creation:</strong> Generated synthetic data using the <code>faker</code> library.</li>
+    <li><strong>Database Design:</strong> Built normalized MySQL-compatible tables.</li>
+    <li><strong>Streamlit App:</strong> Developed an interactive dashboard UI.</li>
+    <li><strong>Insights Extraction:</strong> Used SQL and Python for deep data insights.</li>
+  </ul>
+
+  <h2 id="deliverables">📦 Deliverables</h2>
+  <ul>
+    <li>✔️ Python scripts for data generation and management</li>
+    <li>✔️ 20+ analytical SQL queries</li>
+    <li>✔️ Streamlit web application</li>
+    <li>✔️ Presentation slides and documentation</li>
+  </ul>
+
+  <h2 id="tags">🔧 Technical Tags</h2>
+  <p>
+    Python • SQL • Streamlit • MySQL • Faker • Pandas • Data Visualization • Interactive Dashboard
+  </p>
+
+  <h2 id="conclusion">✅ Conclusion</h2>
+  <p>
+    <strong>Zomato Data Insights</strong> delivers a robust, user-friendly platform for food delivery analytics, empowering data-driven decisions through dynamic visualization and automated insights.
+  </p>
+
 </body>
 </html>
-
----
-
-## 🎯 Business Use Cases
-
-### 📊 Restaurant Performance Analysis
-- **Revenue & Sales Insights** – Understand sales trends across cities and restaurants.
-- **Menu Optimization** – Spot high-demand and underperforming menu items.
-
-### 🌍 Market Expansion Strategy
-- **Competitor Benchmarking** – Evaluate market saturation and competitor growth.
-- **Customer Demographics** – Analyze dining behavior by region.
-
-### 🎯 Marketing & Promotions
-- **Campaign Effectiveness** – Track marketing engagement and conversion.
-- **Targeted Offers** – Customize promotions based on user behavior.
-
----
-
-## 🧠 Approach
-
-- 🔧 **Synthetic Dataset Creation** using `faker`
-- 🧱 **Normalized Database Design** with MySQL (`pymysql`)
-- 📈 **Streamlit App** for interactive dashboards and data entry
-- 🧪 **SQL & Python Analysis** for business insights
-
----
-
-## 📦 Deliverables
-
-- 🐍 Python scripts for data simulation and dashboard
-- 📜 20+ insightful SQL queries
-- 🖥️ Streamlit web app for visual exploration
-- 📘 Complete project documentation and presentation
-
----
-
-## 🛠️ Tech Stack
-
-`Python` • `Streamlit` • `SQL` • `Faker` • `PyMySQL` • `Pandas` • `Data Visualization`
-
----
-
-## ✅ Conclusion
-
-This end-to-end data science solution empowers food delivery platforms to:
-- Drive data-informed decisions
-- Optimize restaurant operations
-- Personalize customer experiences
-
-> 🚀 *A great showcase for Data Science, Streamlit, and Business Analytics skills.*
-
----
-
-
