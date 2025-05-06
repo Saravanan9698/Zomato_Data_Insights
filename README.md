@@ -3,7 +3,7 @@
 This project aims to analyze food delivery data to enhance operational efficiency and customer satisfaction. An interactive Streamlit app is developed to manage orders, customers, restaurants, and deliveries, with robust SQL database operations.
 
 
-# Table of Contents
+# 📑 Table of Contents
 
 - [Business use cases](#Business_use_cases)
 
@@ -16,7 +16,7 @@ This project aims to analyze food delivery data to enhance operational efficienc
 - [Conclusion](#Conclusion)
 
   
-# Business use cases
+# 📊 Business use cases
 
   - *Restaurant Performance Analysis*
     
@@ -43,7 +43,7 @@ This project aims to analyze food delivery data to enhance operational efficienc
         Tailor promotional offers based on user dining patterns and spending behavior.
     
 
-# Approach
+# 🛠️ Approach
 
   *Dataset Creation:* Generate synthetic data using Python (Faker).
   
@@ -54,7 +54,7 @@ This project aims to analyze food delivery data to enhance operational efficienc
   *Insights Extraction:* Use SQL and Python for analysis.
   
 
-# Deliverables
+# 📦 Deliverables
 
   - Python scripts for data generation and management.
   
@@ -65,7 +65,7 @@ This project aims to analyze food delivery data to enhance operational efficienc
   - Project documentation.
     
 
-# Technical Tags
+# 🔧 Technical Tags
 
   - Python
 
@@ -76,6 +76,6 @@ This project aims to analyze food delivery data to enhance operational efficienc
   - Streamlit 
 
 
-# Conclusion
+# ✅ Conclusion
 
   This project provides a scalable solution for managing food delivery operations, offering valuable business insights and a user-friendly interface.
