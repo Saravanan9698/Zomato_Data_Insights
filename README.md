@@ -34,7 +34,7 @@ This project aims to analyze food delivery data to enhance operational efficienc
     *Customer Demographics:*
        Analyze user preferences and demographic trends in different cities.
   
-  - Marketing and Promotions Optimization
+   🎯 Marketing and Promotions Optimization
   
     *Campaign Effectiveness:*
         Measure the success of marketing campaigns by tracking engagement, conversions, and reviews.
@@ -56,13 +56,13 @@ This project aims to analyze food delivery data to enhance operational efficienc
 
 # 📦 Deliverables
 
-  - Python scripts for data generation and management.
+  ✔️ Python scripts for data generation and management.
   
-  - 20 SQL queries for analysis.
+  ✔️ 20 SQL queries for analysis.
   
-  - Streamlit app for data visualization.
+  ✔️ Streamlit app for data visualization.
   
-  - Project documentation.
+  ✔️ Project documentation.
     
 
 # 🔧 Technical Tags
